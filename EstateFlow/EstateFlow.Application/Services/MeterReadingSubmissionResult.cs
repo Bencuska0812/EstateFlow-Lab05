@@ -1,6 +1,6 @@
-﻿using EstateFlow.Domain.Entities;
+using EstateFlow.Domain.Entities;
 
-namespace EstateFlow.Server.Services
+namespace EstateFlow.Application.Services
 {
     public class MeterReadingSubmissionResult
     {
