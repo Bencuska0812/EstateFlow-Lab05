@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace EstateFlow.Server.Domain
+namespace EstateFlow.Domain.Entities
 {
     public class City
     {

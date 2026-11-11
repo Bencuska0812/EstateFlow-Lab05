@@ -1,4 +1,4 @@
-﻿using EstateFlow.Server.Domain;
+﻿using EstateFlow.Domain.Entities;
 
 namespace EstateFlow.Server.Services
 {
